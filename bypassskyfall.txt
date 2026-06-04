@@ -1,0 +1,33 @@
+04/06/2026   01:30
+
+Bypass tutorial 
+
+Tutorial do bypass!
+
+vc vai na tela inicial e cria um documento de texto (txt)
+
+E vai escrever no espaço em branco
+
+cmd /min /C "set __COMPAT_LAYER=RUNASINVOKER && start "" %1"
+
+E cola esse comando de cima ai. 
+
+Dps de colar esse cmd vc vai clicar em "arquivo" ao lado de "editar" 
+E selecionar "salvar como
+
+E dps vc seleciona a parte dowloads (para salvar em dowloads)
+
+E no nome vc coloca qualquer coisa com um ". Bat" no final. 
+
+Exemplo: Bypass. Bat
+ Tem que conter o . Bat no final 
+
+
+E onde vai estar escrito" tipo:" em baixo do nome vc clica e seleciona" todos arquivos" e salva
+
+
+Agr vai em dowloads e arrasta o bypass. Bat para a aba inicial e pronto! 
+
+Agr qualquer coisa que vc quiser executar como adm vai funcionar sem a permissão do diretor. 
+
+Exemplo: arrasta o Google para esse bypass e ele vai ser executado como administrador sem pedir permissão e isso evita 70% dos erros! ^^
