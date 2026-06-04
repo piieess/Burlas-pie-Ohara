@@ -1,1 +1,1 @@
-🎮Links do mega para baixar jogos no pc da sua escola!(via mega)
+🎮Links de jogos para baixar no pc da escola! (via mega).
